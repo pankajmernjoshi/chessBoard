@@ -1,0 +1,22 @@
+.main{
+    width:800px;
+    height:800px;
+}
+
+.row{
+    width:800px;
+    height:100px;
+    display:flex;
+}
+
+
+
+.box{
+    width:100px;
+    height:100px;
+    border:1px solid black;
+}
+
+.black{
+    background-color: black;
+} 
